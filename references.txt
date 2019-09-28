@@ -1,0 +1,5 @@
+Copied layout of board from can't stop express
+
+Talked to professor Baruch about the algorithm for my search function
+
+Alex Cramer helped me find where my markings were incrementing incorrectly
